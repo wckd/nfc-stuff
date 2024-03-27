@@ -4,6 +4,6 @@
 
 ## Some notes:
 * You need a clean reading of sector 0 and sector 3 with one of the key's in the dictionary (based on my initial research).
-  * Sectors may differ between setups/installs, but always sector 0.
+  * Sectors may differ between setups/installs, but you need a valid 4b uid.
 * Most sectors use the key FFFFFFFFFFFF for read and write, only the important data is programmed with another KeyA and KeyB.
   * You do not need KeyB on sector 3 to emulate, this is only used for initial read and programming at the guard station in my experience.
