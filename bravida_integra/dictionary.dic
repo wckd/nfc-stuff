@@ -1,4 +1,4 @@
-# Generated list of possible valid KeyA for Bravida Integra systems that uses Mifare 1K 4b/7b cards.
+# Generated list of possible valid KeyA for Bravida Integra systems that uses Mifare 1K 4b cards.
 # I've found multiple valid KeyA's that follows this format in and around Oslo, Norway.
 # In my testing on actual cards from this system, I have seen they store data (cardnumber etc.) 
 # in block 12 (sector 3), and KeyA is enough to read this block and emulate. To recover KeyB, do a nested attack.
