@@ -2,7 +2,8 @@
 * Added generated dictionary with possible KeyA's on their Mifare 1k 4b cards.
 * Added Integra_access_v5.pdf and Integra_access_v6.pdf with technical info.
   
-![Sector 3 on the card, some values censored and changed](hexview_sector3.png)
+![Sector 3 on the card, some values censored and changed](hexview_sector3.png)  
+Screenshot of sector 3. Green lines in the top right is the cardnumber.
 
 ## Some notes to self:
 * You need a clean reading of sector 0 and sector 3 with the keys in the dictionary (based on my initial research).
