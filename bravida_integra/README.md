@@ -4,7 +4,7 @@
 
 ## Screenshot of sector 3
 ![Sector 3 on the card, some values censored and changed](hexview_sector3.png)  
-Top right corner: **GREEN:** card number. **YELLOW:** system id? **RED:** system?
+Top right corner: **GREEN:** card number. **YELLOW:** site id? **RED:** system?
 
 ## Some notes to self:
 * You need a clean reading of sector 0 and sector 3 with the keys in the dictionary (based on my initial research).
